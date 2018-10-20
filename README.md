@@ -1,1 +1,1 @@
-# AdtracionOfCuartos-PHP(En manteniento)
+# AdmitracionOfHabitaciones-PHP(En manteniento)
